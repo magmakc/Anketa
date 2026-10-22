@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+ok.txt
+errors.txt
+*.docx
+.env
