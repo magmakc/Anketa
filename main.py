@@ -28,7 +28,7 @@ def main():
     print()
     print_bad(bad)
     print()
-    print("Всего строк в файле:", len(lines), "(пустых:", str(empty) + ")")
+    print("Всего строк в файле:", len(lines), "(пустых строк:", str(empty) + ")")
     print("Принято:", len(good), "| Отклонено:", len(bad))
     print()
     print_stat(good)
